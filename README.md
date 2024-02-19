@@ -1,7 +1,10 @@
 # TypeScript Tutorial
 
 ## Introduction
-This tutorial will cover the basic to start to code in TypeScript. Each lesson will cover a subject in TypeScrip, so it is important to read all the files and code your own code.
+
+=> The content of this tutorial is developed by the youtuber **Programming with Mosh** [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs)
+
+This tutorial will cover the basic to start to code in TypeScript. Each lesson will cover a subject in TypeScript, so it is important to read all the files and code your own code.
 
 ## Requirements
 [x] JavaScript Basic Concepts
