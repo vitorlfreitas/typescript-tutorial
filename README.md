@@ -2,22 +2,22 @@
 
 ## Introduction
 
-=> The content of this tutorial is developed by the youtuber **Programming with Mosh** [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs)
+=> The content of this tutorial is developed by the YouTuber **Programming with Mosh** [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs)
 
-This tutorial will cover the basic to start to code in TypeScript. Each lesson will cover a subject in TypeScript, so it is important to read all the files and code your own code.
+This tutorial has been developed by the YouTuber "Programming with Mosh". It covers the basics of TypeScript and will help you get started with coding in TypeScript. Each lesson covers a specific topic, so it is important to read all the content and practice writing code.
 
 ## Requirements
+Before starting this tutorial, make sure that you have the following:
 [x] JavaScript Basic Concepts
-[x] Node.js installed
+[x] Node.js installed on your computer
 [x] Be Motivated
 
-## How to get the best from this course?
-=> Make sure to understand and follow all the lessons, remember that the more you practice, the better you get. Do not be lazy! 
-=> **Take Notes** as much as you can
-=> Use and reuse the YouTube videos about TypeScript and JavaScript, and also, the Documentation to get a better understanding
-=> Write your own code multi times
-=> Never Give up!
-=> Do not put the README files aside, they have useful **INSTRUCTIONS** 
+## How to get the most out of this course?
+- Understand and follow all the lessons carefully. Remember, practice makes perfect! 
+- Take notes as you go through the content.
+- Use and reuse the YouTube videos about TypeScript and JavaScript, and also, the Documentation to get a better understanding of the concepts
+- Write your code multiple times
+- Never Give up! 
 
 ## References
 [TypeScript Documentation](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)

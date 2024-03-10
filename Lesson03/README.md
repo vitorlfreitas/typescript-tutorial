@@ -1,6 +1,6 @@
 ## Configuring the TypeScript file
 
-Open the terminal
+Open the terminal:
 > tsc --init (It will create a tsconfig.json file)
 > Change the target to the one you want
 > Enable and add the file path "rootDir": "./src",

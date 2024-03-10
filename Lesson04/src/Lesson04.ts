@@ -44,7 +44,7 @@ console.log(numberRaised);
 let square = calculateArea(15, 20);
 console.log(square);
 
-// Tumple
+// Tuple
 let user: [string, string] = ['Vitor', 'password'];
 
 // Enum

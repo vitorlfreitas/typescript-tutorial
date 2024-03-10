@@ -1,6 +1,8 @@
 // Union
 function kgToLbs(weight: number | string): number {
+    // It means that the variable weight is either a string or a number
     if (typeof weight === 'number') 
+    // We use the typeof to say to TypeScript which type it is, doing that, it helps us with an intellisense
         return weight * 2.2;
     else
         return parseInt(weight) * 2.2;
