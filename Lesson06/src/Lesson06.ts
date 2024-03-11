@@ -1,4 +1,4 @@
-// Union
+// Union types
 function kgToLbs(weight: number | string): number {
     // It means that the variable weight is either a string or a number
     if (typeof weight === 'number') 
@@ -19,7 +19,7 @@ type Friendly = {
     pet: () => void
 }
 // My Object Dog is a Pet and Friendly
-type Dog = Pet & Friendly;
+type Dog = Pet & Friendly; // Intersection
 
 let myDog: Dog = {
     name: "Rex",

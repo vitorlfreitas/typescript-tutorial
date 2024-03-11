@@ -1,6 +1,6 @@
 // Objects
 
-// Blueprint
+// Blueprint or Type alias
 type Employee = {
     // Attribute
     readonly id:number, // Forbid to be changed
